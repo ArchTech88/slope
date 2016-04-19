@@ -8,4 +8,4 @@ function slope(m){
     else{
         console.log("things are trending down :(")
     }
-}
+} //can you see the changes?
