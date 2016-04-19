@@ -3,7 +3,7 @@ function slope(m){
         console.log("Things are trending up!");
     }
     else if(m===0){
-        console.log("undefined");
+        console.log("staying level!");
     }
     else{
         console.log("things are trending down :(")
